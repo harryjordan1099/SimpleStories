@@ -2,3 +2,4 @@ openai
 tiktoken
 nltk
 textstat
+python-dotenv
