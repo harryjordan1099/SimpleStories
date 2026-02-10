@@ -1,5 +1,4 @@
-openai
-tiktoken
-nltk
-textstat
-python-dotenv
+datasets
+diversity
+matplotlib
+polars

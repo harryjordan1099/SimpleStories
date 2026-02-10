@@ -212,6 +212,6 @@ __marimo__/
 
 
 #data
-.parquet
-.csv
-.qmd
+*.parquet
+*.csv
+*.qmd
