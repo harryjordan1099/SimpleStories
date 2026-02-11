@@ -2,4 +2,4 @@ datasets
 diversity
 matplotlib
 polars
-py-readability-metrics
+textstat 
