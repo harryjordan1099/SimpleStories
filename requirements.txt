@@ -3,3 +3,5 @@ diversity
 matplotlib
 polars
 textstat 
+spacy
+openai
